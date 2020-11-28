@@ -1,6 +1,7 @@
 .vscode
 node_modules
-pakage-lock.json
+package-lock.json
+
 # Logs
 logs
 *.log
